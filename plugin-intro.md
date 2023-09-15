@@ -25,6 +25,7 @@ In general terms of usage, there are two ways of generating it：
 > 3. control + 9，The shortcut key method is my most recommended.
 
 **Here are a few operation diagrams: refer to the code inside: “images/插件用法.png”;**
+![直接连接数据源](images/插件用法.png)
 
 Here is a brief introduction to those parameters：
 
@@ -62,6 +63,7 @@ Here is a brief introduction to those parameters：
 The operation is also relatively simple, but there are no shortcuts：
 
 **Operation picture in：“images/table2Orm.png”;**
+![选择连接数据源](images/table2Orm.png)
 
 > 1. You need to select the table and right-click it.
 > 2. The corresponding column type is not found in the middle, and it asks what type do you need to associate with java.
