@@ -5,4 +5,5 @@ Warehouse introduction: This plugin was incubated from the personal plugin cente
 This plugin is used to quickly generate ORM layer code. For specific introduction, please refer to "Introduction to plugins. md" in the same level directory;
 
 个人idea孵化中心项目：https://gitee.com/yysimple/idea-plugins
+
 Personal Idea Incubation Center Project：https://gitee.com/yysimple/idea-plugins
