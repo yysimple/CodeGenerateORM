@@ -44,7 +44,9 @@ Personal Idea Incubation Center Project：https://gitee.com/yysimple/idea-plugin
 
 csdn：https://blog.csdn.net/weixin_44704261/article/details/124071700
 
-公众号：二维码
+公众号：爱搞技术的吴同学
+
+> 公众号里经常会写高质量文章
 
 ![微信公众号](images/wechat.png)
 
