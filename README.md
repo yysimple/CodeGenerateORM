@@ -38,3 +38,16 @@ Personal Idea Incubation Center Project：https://gitee.com/yysimple/idea-plugin
 
 具体详细的文档参考：“插件简介.md” or “plugin-intro.md”；
 
+插件源码详解：
+
+微信公众号：https://mp.weixin.qq.com/s/m4-P2vLRn68w4y9vEHnwqQ
+
+csdn：https://blog.csdn.net/weixin_44704261/article/details/124071700
+
+公众号：二维码
+
+![微信公众号](images/wechat.png)
+
+
+
+
