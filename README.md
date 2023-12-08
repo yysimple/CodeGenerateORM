@@ -38,6 +38,8 @@ Personal Idea Incubation Center Project：https://gitee.com/yysimple/idea-plugin
 
 具体详细的文档参考：“插件简介.md” or “plugin-intro.md”；
 
+需要新功能的，可以提issuse给我，或者想加入项目的，可以通过公众号联系我；
+
 插件源码详解：
 
 微信公众号：https://mp.weixin.qq.com/s/m4-P2vLRn68w4y9vEHnwqQ
